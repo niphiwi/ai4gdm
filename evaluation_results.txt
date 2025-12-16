@@ -1,0 +1,6 @@
+Evaluation Results - 2025-12-11 03:05:41
+
+FNO       - Avg Time: 0.0036s, Avg RMSE: 0.3586
+Diffusion - Avg Time: 0.1960s, Avg RMSE: 0.4937
+KDM+V     - Avg Time: 0.0082s, Avg RMSE: 0.5377
+DARES     - Avg Time: 0.1144s, Avg RMSE: 0.7122
